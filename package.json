@@ -1,0 +1,14 @@
+{
+  "name": "bookpayment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "alipay-sdk": "^3.4.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "request": "^2.88.2"
+  }
+}
